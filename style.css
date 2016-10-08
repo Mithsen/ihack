@@ -1,0 +1,26 @@
+
+#frm{
+	border: solid gray 1px;
+	width:50%;
+	border-radius: 5px;
+	margin: 120px auto;
+	background: white;
+	padding:50px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#btn1 {
+    color: #fff;
+    background: #ca0202;
+    padding: 7px;
+    margin-left: 0%;
+}
+#btn2{
+	color:#fff;
+	background:#050CAA;
+	padding: 5px;
+	margin-left:22%;
+}
+* {
+    color: #da0203;
+    box-sizing: border-box;
+}
